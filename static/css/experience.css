@@ -1,0 +1,24 @@
+.experience-box {
+    position: absolute;
+    background-color: #A88d5F;
+    width: 800px;
+    height: 200px;
+    border-radius: 40px;
+    left: 30px;
+}
+
+.experience-period {
+    font-size: 14px;
+}
+
+.ksk {
+    top: 80px;
+}
+
+.cit {
+    top: 310px;
+}
+
+.programarte {
+    top: 545px
+}
